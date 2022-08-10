@@ -1,7 +1,7 @@
 # Личный проект «TaskForce»
 
 * Студент: [Ignat Polnjuakov](https://up.htmlacademy.ru/yii/4/user/345821).
-* Наставник: `Неизвестно`.
+* Наставник: [Никита Колосов](https://htmlacademy.ru/profile/id1186205)
 
 ---
 
